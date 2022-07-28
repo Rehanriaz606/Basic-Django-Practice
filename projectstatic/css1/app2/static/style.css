@@ -1,0 +1,17 @@
+body{
+    background: url(https://realpython.com/django-social-post-3/);
+    color: rgb(196, 241, 69);
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+div{
+    background-color:rgb(75, 41, 136) ;
+    border: brown;
+    border-width: 8px;
+    border-style: dotted;
+}
+span{
+    background-color: rgb(45, 151, 23);
+    color: burlywood;
+}
